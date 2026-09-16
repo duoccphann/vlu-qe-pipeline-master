@@ -1,0 +1,13 @@
+{
+  "name": "vlu-qe-pipeline-master",
+  "version": "1.0.0",
+  "description": "Lab 01 - CI/CD pipeline voi Smoke Test va Regression Test",
+  "main": "auth.js",
+  "scripts": {
+    "test:smoke": "jest auth.smoke.test.js",
+    "test:regression": "jest auth.regression.test.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
