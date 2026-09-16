@@ -3,7 +3,7 @@
 
 // Danh sách tài khoản mẫu
 const users = [
-  { username: 'admin', password: '9999', locked: false },
+  { username: 'admin', password: '123', locked: false },
   { username: 'tester', password: 'P@ss#2026!', locked: false }, // mật khẩu có ký tự đặc biệt
   { username: 'lockeduser', password: '456', locked: true }      // tài khoản bị khóa
 ];
