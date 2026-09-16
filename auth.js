@@ -1,3 +1,4 @@
+// Cập nhật: bổ sung ghi chú cho chức năng login
 // auth.js - Module xử lý đăng nhập đơn giản (dữ liệu giả lập, không dùng database)
 
 // Danh sách tài khoản mẫu
